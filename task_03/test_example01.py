@@ -1,4 +1,4 @@
-import unittest
+cdimport unittest
 from example01 import circle_area
 from math import pi
 
